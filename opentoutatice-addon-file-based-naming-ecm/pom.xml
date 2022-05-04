@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>opentoutatice-ecm.file-based-naming</groupId>
 		<artifactId>opentoutatice-addon-file-based-naming-parent</artifactId>
-		<version>4.7-SNAPSHOT</version>
+		<version>RAB-4.7.18-RC01-SNAPSHOT</version>
 	</parent>
 
 	<properties>
