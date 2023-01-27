@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<name>File-based-naming plugin - parent</name>
 	<description>Addon allowing document naming based on its attached file</description>
-	<version>RAB-4.7.19-SNAPSHOT</version>
+	<version>RAB-4.7.18.1</version>
 
 	<properties>
 		<nuxeo.version>RAB-6.1.5</nuxeo.version>
